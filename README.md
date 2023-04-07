@@ -4,6 +4,11 @@
 
 This Employee Tracker is a command-line application that allows users to manage a company's departments, roles, and employees. Users can view, add, update, and delete information about employees, roles, and departments.
 
+## Links
+
+* Github Repo: https://github.com/bryxzi/12EmployeeTracker
+* Walkthrough Video: https://drive.google.com/file/d/1upvvjOU_Agb-QEe3iGQFNQAijEmUW45E/view
+
 ## Demo
 ![demo image](assets/images/demo.png)
 
