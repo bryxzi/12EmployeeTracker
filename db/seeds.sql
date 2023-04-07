@@ -1,4 +1,4 @@
-USE employee_manager_db;
+USE employee_tracker_db;
 
 INSERT INTO department (name) VALUES
   ('HR'),

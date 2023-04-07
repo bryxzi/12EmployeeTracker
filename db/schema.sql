@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS employee_manager_db;
-USE employee_manager_db;
+CREATE DATABASE IF NOT EXISTS employee_tracker_db;
+USE employee_tracker_db;
 
 CREATE TABLE department (
   id INT AUTO_INCREMENT PRIMARY KEY,
